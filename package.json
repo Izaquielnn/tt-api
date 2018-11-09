@@ -1,0 +1,11 @@
+{
+  "name": "tt-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Izaquielnn/tt-api.git",
+  "author": "izaquielnn <izaquiel.nascimento@ccc.ufcg.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
