@@ -10,9 +10,7 @@ mongoose.connect(
     }
 );
 
-app.get('/', (req, res) => {
-    return res.send('Hello World');
-});
+app.use(require('./routes'));
 
 
 app.listen(3000, () =>{
